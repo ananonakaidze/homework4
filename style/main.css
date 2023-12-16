@@ -98,7 +98,11 @@ body{
     width: 60%;
     display: inline-block;
     height: 350px;
-    
+    background-color: aquamarine;
+    margin-top: 100px;
+    margin-left: 110;
+    background-image: url("../assets/coding.jpeg");
+    background-position: left;
     background-size: cover;
 }
 .photo2 {
